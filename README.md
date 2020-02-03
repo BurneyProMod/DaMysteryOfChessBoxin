@@ -3,6 +3,7 @@
  
 Things to know about the game:
 
-This is a 1v1 game only. There is no solo play.
+This is a 2 player game only. There is no solo play.
 
 Two controllers are a must when playing. Only has been tested with two Xbox controllers. 
+
